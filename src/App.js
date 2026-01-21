@@ -21,6 +21,7 @@ function App() {
         <img src="" alt="4" />
         <img src="" alt="5" />
         <img src="" alt="6" />
+        <img src="" alt="7" />
       </div>
 
       <div className="footer">
